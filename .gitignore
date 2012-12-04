@@ -25,3 +25,4 @@ binstubs/
 _site/*
 .yardoc/
 doc/
+.tags*
